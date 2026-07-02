@@ -49,7 +49,6 @@ python main.py
 
 - Calculates BMI
 - Easy to use
-- Fast and lightweight
 
 
 ## Contributing

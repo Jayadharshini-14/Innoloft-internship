@@ -12,6 +12,8 @@ print("Type of age:",type(age))
 print(f"Hello{name}! You are {age} years old")
 
 #Taking input from user
-user_name=input("Enter your name:")
-user_age=int(input("Enter your age:"))
-print(f"In 5 years,{user_name} will be {user_age+5}")
+#Ask users input
+year=int(input("Enter your birth year:"))
+currentage=2026-year
+print(f"Current age of yours is {currentage},Your age in 10 years will be {currentage+10}")
+
